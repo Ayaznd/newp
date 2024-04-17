@@ -251,7 +251,7 @@ def set_background(png_file,opacity=1):
 
 
 def main():
-    set_background('C:/Users/user/PycharmProjects/pythonProject.py/firstp/data.png')
+    set_background('C:firstp/data.png')
     def classificationw():
         st.title("Classification Hiérarchique")
 
